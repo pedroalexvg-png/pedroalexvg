@@ -1,2 +1,4 @@
 # pedroalexvg
-My repository
+
+Hello I am learning a lot of AI
+
